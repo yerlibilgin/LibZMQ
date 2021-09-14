@@ -1,0 +1,6 @@
+framework module LibZMQ [extern_c] {
+    umbrella header "LibZMQ.h"
+    
+    module * { export * }
+    export *
+}
