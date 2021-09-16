@@ -1,11 +1,6 @@
 framework module LibZMQ [extern_c] {
     umbrella header "LibZMQ.h"
-    link "stdc++"
     
     module * { export * }
     export *
-    link "stdc++"
-    link "asdfasdfasdf"
-    link "c++"
-    link "asdfasdfasdf"
 }
