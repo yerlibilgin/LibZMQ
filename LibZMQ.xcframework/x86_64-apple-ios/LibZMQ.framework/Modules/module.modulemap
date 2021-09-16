@@ -3,4 +3,5 @@ framework module LibZMQ [extern_c] {
     
     module * { export * }
     export *
+    link "c++"
 }
